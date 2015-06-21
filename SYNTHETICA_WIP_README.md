@@ -10,7 +10,7 @@ this is by no means the only awy to get the back working, but in my opinion, it'
 
 (2a) goto the /minecraft in the modpack base directory "ftb/FTBLite3/"
 (2b) rename the mods and configs to something else (e.g. mods.old)
-(2c) move _all_ files and folders that were pulled, including the hidden .git folder
+(2c) move _all_ files and folders that were pulled, including the hidden .git folder. it should ask if you want to overwrite "pack.json", that's a good thing, proceed!
 
 (3) move the new forge directory from the modpack base "ftb\FTBLite3" into "ftb\libraries\net\minecraftforge\forge"
 
